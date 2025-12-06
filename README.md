@@ -1,4 +1,4 @@
-# Echo
+# Decho
 
 <p align="center">
   <img src="assets/logo.png" alt="Echo Logo" width="400"/>
