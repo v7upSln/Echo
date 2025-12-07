@@ -30,7 +30,7 @@ Add my repository and install via package manager. [my repo](https://v7upsln.git
 ### Usage
 
 ```bash
-echo
+decho
 ```
 
 The tool will display comprehensive system information including device model, OS version, CPU, GPU, battery status, uptime, and storage details.
@@ -53,4 +53,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Author
 
-Made by [v7upsln](https://v7upsln.github.io)
+Made by v7upsln
